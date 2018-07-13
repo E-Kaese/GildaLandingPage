@@ -5,3 +5,12 @@
 .emailInput {
     width: 35%;
 }
+
+@media only screen and (max-width: 600px) {
+    .description {
+        width: 90%;
+    }
+    .emailInput {
+        width: 85%;
+    }
+}
